@@ -9,5 +9,7 @@
 <body>
     <h1>HOLA</h1>
     
+
+    <img src="public/img/garfield.jpg" alt="">
 </body>
 </html>
